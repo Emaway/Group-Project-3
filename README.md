@@ -1,5 +1,5 @@
 # FinalUCBX
-Final group project—Peter, Ivan, Michel, Ema and Anu.
+Final group project—Peter, Ivan, Michel, Emawayish and Anu.
 
 <<<<<<< HEAD
 
